@@ -11,6 +11,16 @@ from info.informacion import *
 from lexico_sintactico.analizador_sintactico import *
 from io import open
 
+###########################################################################
+###########################################################################
+#####   Metacompilador utlizando la libreria swing de java             ####
+#####   Pirmera version del metacompilador  :(                         ####
+#####   @Autor VictorJX                                                ####
+#####                                                                  ####
+#####                                                                  ####
+###########################################################################
+###########################################################################
+
 
 class main(JFrame):
     def __init__(self):
