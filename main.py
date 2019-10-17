@@ -14,7 +14,7 @@ from io import open
 ###########################################################################
 ###########################################################################
 #####   Metacompilador utlizando la libreria swing de java             ####
-#####   Pirmera version del metacompilador  :(                         ####
+#####   Primera version del metacompilador  :(                         ####
 #####   @Autor VictorJX                                                ####
 #####                                                                  ####
 #####                                                                  ####
