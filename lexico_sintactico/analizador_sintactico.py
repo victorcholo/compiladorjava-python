@@ -156,6 +156,7 @@ parser = yacc.yacc()
 def prueba_sintactica(data):
     global resultado_gramatica
     #resultado_gramatica.clear()
+    while (len(resultado_gramatica)>0): resultado_gramatica.pop()
 
     for item in data.splitlines():
         if item:

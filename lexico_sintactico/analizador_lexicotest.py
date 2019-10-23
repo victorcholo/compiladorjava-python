@@ -250,6 +250,7 @@ def prueba(data):
     analizador.input(data)
 
     #resultado_lexema.clear()
+    while len(resultado_lexema) >0 :resultado_lexema.pop()
     
     while True:
         tok = analizador.token()
